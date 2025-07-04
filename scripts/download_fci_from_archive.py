@@ -155,8 +155,8 @@ if __name__ == "__main__":
     
     # date/times for the N Germany case. 
     # you can adjust the start/end time depending how many frames you need. Data are every 10min
-    start_time = "2025-06-19T06:30:00"
-    end_time = "2025-06-19T06:50:00"
+    start_time = "2025-06-19T06:50:00"
+    end_time = "2025-06-19T08:00:00"
     
     collection_ids = [
         "EO:EUM:DAT:0678",  # CLM,
